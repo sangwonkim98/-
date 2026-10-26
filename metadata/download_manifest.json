@@ -1,0 +1,143 @@
+[
+  {
+    "dataset_id": "OA-12928",
+    "source_page": "https://data.seoul.go.kr/dataList/OA-12928/F/1/datasetView.do",
+    "download_url": "https://datafile.seoul.go.kr/bigfile/iot/inf/nio_download.do?&useCache=false",
+    "method": "POST",
+    "form": {
+      "infId": "OA-12928",
+      "seqNo": "",
+      "seq": "23",
+      "infSeq": "1"
+    },
+    "original_filename": "서울교통공사_지하철혼잡도정보_20260630.xlsx",
+    "relative_path": "raw/02_열차혼잡도/서울교통공사_지하철혼잡도정보_20260630.xlsx",
+    "bytes": 691635,
+    "sha256": "5f174d019e38c5fd10b531722fad70573ba8c86160f47bdffe507e82105f49a4",
+    "collected_date_kst": "2026-10-26"
+  },
+  {
+    "dataset_id": "OA-12928",
+    "source_page": "https://data.seoul.go.kr/dataList/OA-12928/F/1/datasetView.do",
+    "download_url": "https://datafile.seoul.go.kr/bigfile/iot/inf/nio_download.do?&useCache=false",
+    "method": "POST",
+    "form": {
+      "infId": "OA-12928",
+      "seqNo": "",
+      "seq": "22",
+      "infSeq": "1"
+    },
+    "original_filename": "서울교통공사_지하철혼잡도정보_20260331.xlsx",
+    "relative_path": "raw/02_열차혼잡도/서울교통공사_지하철혼잡도정보_20260331.xlsx",
+    "bytes": 692138,
+    "sha256": "f7b9c5d2cac1d566c191dfab81e6629fd6b523902a755af4ea8fb40efbb7c02b",
+    "collected_date_kst": "2026-10-26"
+  },
+  {
+    "dataset_id": "OA-12928",
+    "source_page": "https://data.seoul.go.kr/dataList/OA-12928/F/1/datasetView.do",
+    "download_url": "https://datafile.seoul.go.kr/bigfile/iot/inf/nio_download.do?&useCache=false",
+    "method": "POST",
+    "form": {
+      "infId": "OA-12928",
+      "seqNo": "",
+      "seq": "19",
+      "infSeq": "1"
+    },
+    "original_filename": "서울교통공사_지하철혼잡도정보_20251130.csv",
+    "relative_path": "raw/02_열차혼잡도/서울교통공사_지하철혼잡도정보_20251130.csv",
+    "bytes": 344804,
+    "sha256": "7bb3ace6f3beab4fad05a344a4ece3d1f7a1355ebdde6ad11cfa8a6cb0211da9",
+    "collected_date_kst": "2026-10-26"
+  },
+  {
+    "dataset_id": "OA-12928",
+    "source_page": "https://data.seoul.go.kr/dataList/OA-12928/F/1/datasetView.do",
+    "download_url": "https://datafile.seoul.go.kr/bigfile/iot/inf/nio_download.do?&useCache=false",
+    "method": "POST",
+    "form": {
+      "infId": "OA-12928",
+      "seqNo": "",
+      "seq": "18",
+      "infSeq": "1"
+    },
+    "original_filename": "서울교통공사_지하철혼잡도정보_20250930.csv",
+    "relative_path": "raw/02_열차혼잡도/서울교통공사_지하철혼잡도정보_20250930.csv",
+    "bytes": 429315,
+    "sha256": "c07fd5a3136b05b6eabdba428e11d538aedeec5c3d908102b8e5e433af5c8df3",
+    "collected_date_kst": "2026-10-26"
+  },
+  {
+    "dataset_id": "OA-22197",
+    "source_page": "https://data.seoul.go.kr/dataList/OA-22197/F/1/datasetView.do",
+    "download_url": "https://datafile.seoul.go.kr/bigfile/iot/inf/nio_download.do?&useCache=false",
+    "method": "POST",
+    "form": {
+      "infId": "OA-22197",
+      "seqNo": "",
+      "seq": "5",
+      "infSeq": "1"
+    },
+    "original_filename": "2026년 9호선(종합) 역별 시간별 혼잡도 자료.xlsx",
+    "relative_path": "raw/02_열차혼잡도/2026년 9호선(종합) 역별 시간별 혼잡도 자료.xlsx",
+    "bytes": 102095,
+    "sha256": "fb37794ff338776b9e465d55136d9ddf89f06fef93d22c6e8faefaf7ab9bbb1b",
+    "collected_date_kst": "2026-10-26"
+  },
+  {
+    "dataset_id": "OA-22197",
+    "source_page": "https://data.seoul.go.kr/dataList/OA-22197/F/1/datasetView.do",
+    "download_url": "https://datafile.seoul.go.kr/bigfile/iot/inf/nio_download.do?&useCache=false",
+    "method": "POST",
+    "form": {
+      "infId": "OA-22197",
+      "seqNo": "",
+      "seq": "4",
+      "infSeq": "1"
+    },
+    "original_filename": "2025년 9호선 역별 시간별 혼잡도 자료.xlsx",
+    "relative_path": "raw/02_열차혼잡도/2025년 9호선 역별 시간별 혼잡도 자료.xlsx",
+    "bytes": 91999,
+    "sha256": "fd7611be9a3699b1a054106cc3764aab73c9e96c4a45a476ff3ebda76dd4cd49",
+    "collected_date_kst": "2026-10-26"
+  },
+  {
+    "dataset_id": "15099330",
+    "source_page": "https://www.data.go.kr/data/15099330/fileData.do",
+    "download_url": "https://www.data.go.kr/cmm/cmm/fileDownload.do?atchFileId=FILE_000000007631566&fileDetailSn=1&insertDataPrcus=N",
+    "method": "GET",
+    "original_filename": "서울교통공사_1_8호선 역별 일별 시간대별 승객유형별 승하차인원_20260630.csv",
+    "relative_path": "raw/01_승하차/서울교통공사_1_8호선 역별 일별 시간대별 승객유형별 승하차인원_20260630.csv",
+    "bytes": 79325578,
+    "sha256": "7d22968de4fc954e885ffbe4c84dc7e6bd466523fb000cc907ec49972ef1a2d0",
+    "collected_date_kst": "2026-10-26"
+  },
+  {
+    "dataset_id": "15099316",
+    "source_page": "https://www.data.go.kr/data/15099316/fileData.do",
+    "download_url": "https://www.data.go.kr/cmm/cmm/fileDownload.do?atchFileId=FILE_000000003558329&fileDetailSn=1&insertDataPrcus=N",
+    "method": "GET",
+    "original_filename": "서울교통공사_1-8호선 역사 좌표(위경도) 정보_20250814.csv",
+    "relative_path": "raw/03_역좌표/서울교통공사_1-8호선 역사 좌표(위경도) 정보_20250814.csv",
+    "bytes": 16838,
+    "sha256": "30e2eb633ac78904029b69fb0b9c48d3aee74b1493e93469af42837697421d08",
+    "collected_date_kst": "2026-10-26"
+  },
+  {
+    "dataset_id": "TOPIS_OD_202606",
+    "source_page": "https://topis.seoul.go.kr/refRoom/openRefRoom_3_4.do",
+    "download_url": "https://topis.seoul.go.kr/downloadFileRefRoom.do",
+    "method": "POST",
+    "form": {
+      "apndFileNm": "대중교통_월간통계자료_2026.06월.zip",
+      "apndFilePathNm": "178891537447470313983139164193.zip",
+      "bdwrSeq": "6153",
+      "blbdDivCd": "12"
+    },
+    "original_filename": "대중교통_월간통계자료_2026.06월.zip",
+    "relative_path": "raw/04_OD/대중교통_월간통계자료_2026.06월.zip",
+    "bytes": 54871472,
+    "sha256": "3e26e146560b15e3a9aed5846f6dc245f72a94ab2cfed128f98cf3c2c88e6051",
+    "collected_date_kst": "2026-10-26"
+  }
+]

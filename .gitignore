@@ -1,0 +1,13 @@
+.DS_Store
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.part
+.env
+.env.*
+!.env.example
+metadata/*_source_page.html
+metadata/monthly_ridership_reference_page.html
+metadata/topis_2026_file_list.json

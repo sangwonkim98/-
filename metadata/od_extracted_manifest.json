@@ -1,0 +1,226 @@
+[
+  {
+    "relative_path": "raw/04_OD/2026년06월_지하철/대중교통_월간통계자료.pdf",
+    "archive": "raw/04_OD/대중교통_월간통계자료_2026.06월.zip",
+    "archive_entry": "대중교통_월간통계자료.pdf",
+    "bytes": 190136,
+    "sha256": "ae3621999bbb0b5a1361ee7a2de79e57194de0f5283408ab46771932e6c0a431"
+  },
+  {
+    "relative_path": "raw/04_OD/2026년06월_지하철/지하철/역별OD/지하철_역별OD_20260630.csv",
+    "archive": "raw/04_OD/대중교통_월간통계자료_2026.06월.zip",
+    "archive_entry": "지하철/역별OD/지하철_역별OD_20260630.csv",
+    "bytes": 26902010,
+    "sha256": "b2414c94cd6227fa9e584f7bb445aba5410fc3749f6ea83e7704036c64f99f44"
+  },
+  {
+    "relative_path": "raw/04_OD/2026년06월_지하철/지하철/호선별OD/지하철_호선별OD_20260601.csv",
+    "archive": "raw/04_OD/대중교통_월간통계자료_2026.06월.zip",
+    "archive_entry": "지하철/호선별OD/지하철_호선별OD_20260601.csv",
+    "bytes": 104222,
+    "sha256": "e7f671a50a781eeffd4ee309abc790450048a69f185e5a0bf13699bb1483d48b"
+  },
+  {
+    "relative_path": "raw/04_OD/2026년06월_지하철/지하철/호선별OD/지하철_호선별OD_20260602.csv",
+    "archive": "raw/04_OD/대중교통_월간통계자료_2026.06월.zip",
+    "archive_entry": "지하철/호선별OD/지하철_호선별OD_20260602.csv",
+    "bytes": 105222,
+    "sha256": "1f6c0af1b777fd2a53c14d8fe4e6509a86a199b5a15ac0a0f866ef36c10c6fc7"
+  },
+  {
+    "relative_path": "raw/04_OD/2026년06월_지하철/지하철/호선별OD/지하철_호선별OD_20260603.csv",
+    "archive": "raw/04_OD/대중교통_월간통계자료_2026.06월.zip",
+    "archive_entry": "지하철/호선별OD/지하철_호선별OD_20260603.csv",
+    "bytes": 100695,
+    "sha256": "9119de490a0163ab2bb636635d318cdd3664465f190d2572597c92291ef3625b"
+  },
+  {
+    "relative_path": "raw/04_OD/2026년06월_지하철/지하철/호선별OD/지하철_호선별OD_20260604.csv",
+    "archive": "raw/04_OD/대중교통_월간통계자료_2026.06월.zip",
+    "archive_entry": "지하철/호선별OD/지하철_호선별OD_20260604.csv",
+    "bytes": 105340,
+    "sha256": "372b28dbfc361f3ed6d90784d0825b9ffe2e0a75230f208395755ef33f3fb9c6"
+  },
+  {
+    "relative_path": "raw/04_OD/2026년06월_지하철/지하철/호선별OD/지하철_호선별OD_20260605.csv",
+    "archive": "raw/04_OD/대중교통_월간통계자료_2026.06월.zip",
+    "archive_entry": "지하철/호선별OD/지하철_호선별OD_20260605.csv",
+    "bytes": 104306,
+    "sha256": "5c671a27063df7e39ac21beb03d8290ca79b46f39537f1ff42a35877af98f018"
+  },
+  {
+    "relative_path": "raw/04_OD/2026년06월_지하철/지하철/호선별OD/지하철_호선별OD_20260606.csv",
+    "archive": "raw/04_OD/대중교통_월간통계자료_2026.06월.zip",
+    "archive_entry": "지하철/호선별OD/지하철_호선별OD_20260606.csv",
+    "bytes": 102808,
+    "sha256": "1b1f43f2ee897e0551ec7c097b4d5e9542c809131e4e0fc3f72c30e95490ad78"
+  },
+  {
+    "relative_path": "raw/04_OD/2026년06월_지하철/지하철/호선별OD/지하철_호선별OD_20260607.csv",
+    "archive": "raw/04_OD/대중교통_월간통계자료_2026.06월.zip",
+    "archive_entry": "지하철/호선별OD/지하철_호선별OD_20260607.csv",
+    "bytes": 101478,
+    "sha256": "f6551613729526b4a97c4af1ccadc293e84be0ff45759dfd10aa046c6574c1c5"
+  },
+  {
+    "relative_path": "raw/04_OD/2026년06월_지하철/지하철/호선별OD/지하철_호선별OD_20260608.csv",
+    "archive": "raw/04_OD/대중교통_월간통계자료_2026.06월.zip",
+    "archive_entry": "지하철/호선별OD/지하철_호선별OD_20260608.csv",
+    "bytes": 104829,
+    "sha256": "619939e97a81634e1d25a547a46e9a904b011a23a1aaffab5fa7c83a1fdc7b7a"
+  },
+  {
+    "relative_path": "raw/04_OD/2026년06월_지하철/지하철/호선별OD/지하철_호선별OD_20260609.csv",
+    "archive": "raw/04_OD/대중교통_월간통계자료_2026.06월.zip",
+    "archive_entry": "지하철/호선별OD/지하철_호선별OD_20260609.csv",
+    "bytes": 104290,
+    "sha256": "a80f1863a1ed5ef4c530b33afb39e3d061fa0d6ceb3eaa1b42b14b4486877b6d"
+  },
+  {
+    "relative_path": "raw/04_OD/2026년06월_지하철/지하철/호선별OD/지하철_호선별OD_20260610.csv",
+    "archive": "raw/04_OD/대중교통_월간통계자료_2026.06월.zip",
+    "archive_entry": "지하철/호선별OD/지하철_호선별OD_20260610.csv",
+    "bytes": 105026,
+    "sha256": "5a9698415e3fcc03fd0b19e2a5eae63a95a568e446750bbf02989bc09d1437c2"
+  },
+  {
+    "relative_path": "raw/04_OD/2026년06월_지하철/지하철/호선별OD/지하철_호선별OD_20260611.csv",
+    "archive": "raw/04_OD/대중교통_월간통계자료_2026.06월.zip",
+    "archive_entry": "지하철/호선별OD/지하철_호선별OD_20260611.csv",
+    "bytes": 104591,
+    "sha256": "ae933a613036a71d976b5394ef67bdd2b78d4893f21b5adea19bfc5eb267c069"
+  },
+  {
+    "relative_path": "raw/04_OD/2026년06월_지하철/지하철/호선별OD/지하철_호선별OD_20260612.csv",
+    "archive": "raw/04_OD/대중교통_월간통계자료_2026.06월.zip",
+    "archive_entry": "지하철/호선별OD/지하철_호선별OD_20260612.csv",
+    "bytes": 104254,
+    "sha256": "8c6b44676cc802b9ebcf586db5b5ab784a75bb98f93beedde7aab62b37641a3c"
+  },
+  {
+    "relative_path": "raw/04_OD/2026년06월_지하철/지하철/호선별OD/지하철_호선별OD_20260613.csv",
+    "archive": "raw/04_OD/대중교통_월간통계자료_2026.06월.zip",
+    "archive_entry": "지하철/호선별OD/지하철_호선별OD_20260613.csv",
+    "bytes": 104057,
+    "sha256": "9ac7a2ad0509c04143b978052cad7410463d04da22e58184cfe2332b3000a2d0"
+  },
+  {
+    "relative_path": "raw/04_OD/2026년06월_지하철/지하철/호선별OD/지하철_호선별OD_20260614.csv",
+    "archive": "raw/04_OD/대중교통_월간통계자료_2026.06월.zip",
+    "archive_entry": "지하철/호선별OD/지하철_호선별OD_20260614.csv",
+    "bytes": 101296,
+    "sha256": "3ac089163a4fb70494058e7ee709bd4a863af6ae3a932edfebd76c1048c9d4ac"
+  },
+  {
+    "relative_path": "raw/04_OD/2026년06월_지하철/지하철/호선별OD/지하철_호선별OD_20260615.csv",
+    "archive": "raw/04_OD/대중교통_월간통계자료_2026.06월.zip",
+    "archive_entry": "지하철/호선별OD/지하철_호선별OD_20260615.csv",
+    "bytes": 104276,
+    "sha256": "683a7eabb0754e2025e2dfca2e2f8d9c551b9a663ae3823a0b13568eb2fc2b60"
+  },
+  {
+    "relative_path": "raw/04_OD/2026년06월_지하철/지하철/호선별OD/지하철_호선별OD_20260616.csv",
+    "archive": "raw/04_OD/대중교통_월간통계자료_2026.06월.zip",
+    "archive_entry": "지하철/호선별OD/지하철_호선별OD_20260616.csv",
+    "bytes": 104255,
+    "sha256": "dc495e89d97b996dac7c3d11393a39ddb82151314aacc08814267039da0d9ed4"
+  },
+  {
+    "relative_path": "raw/04_OD/2026년06월_지하철/지하철/호선별OD/지하철_호선별OD_20260617.csv",
+    "archive": "raw/04_OD/대중교통_월간통계자료_2026.06월.zip",
+    "archive_entry": "지하철/호선별OD/지하철_호선별OD_20260617.csv",
+    "bytes": 105221,
+    "sha256": "d2b8787486a9ceccaa638c3828c7e05f11ed234b08eb3b5e678251111353aef6"
+  },
+  {
+    "relative_path": "raw/04_OD/2026년06월_지하철/지하철/호선별OD/지하철_호선별OD_20260618.csv",
+    "archive": "raw/04_OD/대중교통_월간통계자료_2026.06월.zip",
+    "archive_entry": "지하철/호선별OD/지하철_호선별OD_20260618.csv",
+    "bytes": 103992,
+    "sha256": "c447719e48341de81c4e7c6de6291df132f2e7ce7ce27333866f3e84aaf1aa43"
+  },
+  {
+    "relative_path": "raw/04_OD/2026년06월_지하철/지하철/호선별OD/지하철_호선별OD_20260619.csv",
+    "archive": "raw/04_OD/대중교통_월간통계자료_2026.06월.zip",
+    "archive_entry": "지하철/호선별OD/지하철_호선별OD_20260619.csv",
+    "bytes": 104950,
+    "sha256": "26dfbf01fce1950210ed9b082970da1f62fe42404a215acf98510804ba10bb07"
+  },
+  {
+    "relative_path": "raw/04_OD/2026년06월_지하철/지하철/호선별OD/지하철_호선별OD_20260620.csv",
+    "archive": "raw/04_OD/대중교통_월간통계자료_2026.06월.zip",
+    "archive_entry": "지하철/호선별OD/지하철_호선별OD_20260620.csv",
+    "bytes": 103250,
+    "sha256": "0fb3197ae2e3accd62c3d3e924036440ed4f46bdb84cdb98be96592599eb53be"
+  },
+  {
+    "relative_path": "raw/04_OD/2026년06월_지하철/지하철/호선별OD/지하철_호선별OD_20260621.csv",
+    "archive": "raw/04_OD/대중교통_월간통계자료_2026.06월.zip",
+    "archive_entry": "지하철/호선별OD/지하철_호선별OD_20260621.csv",
+    "bytes": 102353,
+    "sha256": "0973bea5ffa21194326ae5dad470f3dfe3135ec5b069c04c3d8949a17639f181"
+  },
+  {
+    "relative_path": "raw/04_OD/2026년06월_지하철/지하철/호선별OD/지하철_호선별OD_20260622.csv",
+    "archive": "raw/04_OD/대중교통_월간통계자료_2026.06월.zip",
+    "archive_entry": "지하철/호선별OD/지하철_호선별OD_20260622.csv",
+    "bytes": 105169,
+    "sha256": "1281f7c87a041b0691e3e19a9f818f97575fb8a645d86798ff8ad884824c6acb"
+  },
+  {
+    "relative_path": "raw/04_OD/2026년06월_지하철/지하철/호선별OD/지하철_호선별OD_20260623.csv",
+    "archive": "raw/04_OD/대중교통_월간통계자료_2026.06월.zip",
+    "archive_entry": "지하철/호선별OD/지하철_호선별OD_20260623.csv",
+    "bytes": 104157,
+    "sha256": "c25e0aa45fe1156a148799920bd24baf548d4a50bac5cdcc331373c5bddc6d1b"
+  },
+  {
+    "relative_path": "raw/04_OD/2026년06월_지하철/지하철/호선별OD/지하철_호선별OD_20260624.csv",
+    "archive": "raw/04_OD/대중교통_월간통계자료_2026.06월.zip",
+    "archive_entry": "지하철/호선별OD/지하철_호선별OD_20260624.csv",
+    "bytes": 104086,
+    "sha256": "36efc2128a3be557c2e5d088e064f4c400194d86cf8801a07952e220b1efac81"
+  },
+  {
+    "relative_path": "raw/04_OD/2026년06월_지하철/지하철/호선별OD/지하철_호선별OD_20260625.csv",
+    "archive": "raw/04_OD/대중교통_월간통계자료_2026.06월.zip",
+    "archive_entry": "지하철/호선별OD/지하철_호선별OD_20260625.csv",
+    "bytes": 104580,
+    "sha256": "7ae66b94f6a6ed0788c4404607116cfc6234e3da5c6ca027bca0310e31eb1715"
+  },
+  {
+    "relative_path": "raw/04_OD/2026년06월_지하철/지하철/호선별OD/지하철_호선별OD_20260626.csv",
+    "archive": "raw/04_OD/대중교통_월간통계자료_2026.06월.zip",
+    "archive_entry": "지하철/호선별OD/지하철_호선별OD_20260626.csv",
+    "bytes": 105247,
+    "sha256": "adfe8975c12a808106450a58db9b0d64ca36db52b5b1dcfecc27b74b2dd2a7d3"
+  },
+  {
+    "relative_path": "raw/04_OD/2026년06월_지하철/지하철/호선별OD/지하철_호선별OD_20260627.csv",
+    "archive": "raw/04_OD/대중교통_월간통계자료_2026.06월.zip",
+    "archive_entry": "지하철/호선별OD/지하철_호선별OD_20260627.csv",
+    "bytes": 103512,
+    "sha256": "6748ae420e012734805e60e8ff7cc3e568ff8ec49d26dce1e2dcc29acac56f52"
+  },
+  {
+    "relative_path": "raw/04_OD/2026년06월_지하철/지하철/호선별OD/지하철_호선별OD_20260628.csv",
+    "archive": "raw/04_OD/대중교통_월간통계자료_2026.06월.zip",
+    "archive_entry": "지하철/호선별OD/지하철_호선별OD_20260628.csv",
+    "bytes": 102538,
+    "sha256": "266215fdbc165445ad41bf6963ab55f9b33137ca7134d00397a8c5df0e279461"
+  },
+  {
+    "relative_path": "raw/04_OD/2026년06월_지하철/지하철/호선별OD/지하철_호선별OD_20260629.csv",
+    "archive": "raw/04_OD/대중교통_월간통계자료_2026.06월.zip",
+    "archive_entry": "지하철/호선별OD/지하철_호선별OD_20260629.csv",
+    "bytes": 104337,
+    "sha256": "266aeefd72b428aa658fd62e244247052027bcc87b230c4cb7c53cdd4e4f6d34"
+  },
+  {
+    "relative_path": "raw/04_OD/2026년06월_지하철/지하철/호선별OD/지하철_호선별OD_20260630.csv",
+    "archive": "raw/04_OD/대중교통_월간통계자료_2026.06월.zip",
+    "archive_entry": "지하철/호선별OD/지하철_호선별OD_20260630.csv",
+    "bytes": 105846,
+    "sha256": "7175b30823367b30d2954cf163cd2700dbff69c1e99bc3f018c6aaa04729345e"
+  }
+]
